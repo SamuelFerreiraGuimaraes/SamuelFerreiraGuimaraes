@@ -1,8 +1,8 @@
 ### Bem vindo ao meu Github, eu sou Samuel Ferreira Guimarães 😎
 #### Técnico em Desenvolvimento de Sistemas na Instituição Senai Centro de Treinamento da Tecnologia da Informação ✅
-* Procurando emprego 💀
+* Estágiario em Business Inteligence :heavy_check_mark: 
 * Estudando Jquery, Angular e Typescript 💪
-* Cursando Analise e Desenvolvimento de Sistemas e Administração de Banco de Dados 📚
+* Cursando Analise e Desenvolvimento de Sistemas 📚
 
 <br>
 <div>
