@@ -12,12 +12,16 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://devicons.dev.br/icons?icon=HTML&theme=light">
-  <img align="center" alt="CSS" height="30" width="40" src="https://devicons.dev.br/icons?icon=CSS&theme=light">
-  <img align="center" alt="JS" height="30" width="40" src="https://devicons.dev.br/icons?icon=JavaScript&theme=light">
-  <img align="center" alt="PHP" height="30" width="40" src="https://devicons.dev.br/icons?icon=PHP&theme=dark">
-  <img align="center" alt="MYSQL" height="30" width="40" src="https://devicons.dev.br/icons?icon=MySQL&theme=dark">
-  <img align="center" alt="ARDUINO" height="30" width="40" src="https://devicons.dev.br/icons?icon=Arduino&theme=light">
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="REACT JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
+   <img align="center" alt="NODE JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="ANGULAR JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+  <!--<img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"> -->
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="ARDUINO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg">
 </div>
 
 ##
