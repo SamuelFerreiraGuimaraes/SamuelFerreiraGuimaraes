@@ -11,9 +11,9 @@ Me chamo **Samuel Ferreira Guimarães**, um entusiasta da tecnologia apaixonado 
 
 ## ⚡ Estatísticas do GitHub  
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelFerreiraGuimaraes&show_icons=true&theme=blue_navy"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelFerreiraGuimaraes&theme=blue_navy" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFerreiraGuimaraes&layout=compact&langs_count=16&theme=blue_navy" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SamuelFerreiraGuimaraes&show_icons=true&theme=blue_navy"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=SamuelFerreiraGuimaraes&theme=blue_navy" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFerreiraGuimaraes&layout=compact&langs_count=16&theme=blue_navy" />
   <img src="https://github-profile-trophy.vercel.app/?username=SamuelFerreiraGuimaraes&theme=gitdimmed" />
 </div>
 
